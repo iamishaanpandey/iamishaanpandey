@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ishaan Pandey</h1>
-<h3 align="justify">As a passionate learner in the field of data science, I am actively using GitHub to enhance my skills and showcase my projects</h3>
-<img align="center" alt="Coding" width="400" src="https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif">
+<h3 align="center">As a passionate learner in the field of data science, I am actively using GitHub to enhance my skills and showcase my projects</h3>
+<img align="right" alt="Coding" width="400" src="https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamishaanpandey&label=Profile%20views&color=0e75b6&style=flat" alt="iamishaanpandey" /> </p>
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning Python and related technologies **Python,Big Data,Data Analytics**
+- 🌱 I’m currently learning**Python,Big Data,Data Analytics**
 
 - 🤝 I’m looking for help with **Machine learning,Deep Learning**
 

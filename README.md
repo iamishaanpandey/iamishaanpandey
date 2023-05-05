@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishaan Pandey</h1>
 <h3 align="center">As a passionate learner in the field of data science, I am actively using GitHub to enhance my skills and showcase my projects</h3>
-<img align="right" alt="Coding" width="400" src="https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif">
+<img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/id/1325034866/vector/data-analysis-vector-illustration-with-young-woman-sitting-in-front-of-big-computer-monitor.jpg?s=612x612&w=0&k=20&c=n5-pe8pgPfPMcRpOL8bpy6mcx-LHrxLs2sYX1vJ9smM=">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamishaanpandey&label=Profile%20views&color=0e75b6&style=flat" alt="iamishaanpandey" /> </p>
 
 - 🔭 I’m currently working on **Python**

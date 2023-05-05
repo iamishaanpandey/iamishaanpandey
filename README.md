@@ -1,12 +1,17 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ishaan Pandey</h1>
-<h3 align="center">As a passionate learner in the field of data science, I am actively using GitHub to enhance my skills and showcase my projects. Currently, I am focused on learning various data science tech stacks such as Python, NumPy, Pandas, and other relevant technologies. Through GitHub, I am able to not only improve my coding skills but also connect with like-minded individuals in the data science community.</h3>
+<h3 align="center">As a passionate learner in the field of data science, I am actively using GitHub to enhance my skills and showcase my projects</h3>
 <img align="right" alt="Coding" width="400" src="https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamishaanpandey" alt="iamishaanpandey" /></a> </p>
 
-- 🌱 I’m currently learning Python and related technologies **Python,Statistics, Machine learning ,Deep learning, Computer vision ,Natural language processing, Big Data ,Apache Spark, Apache Kafka ,Data Analytics ,PowerBI ,Tableau ,Databases, Data Science Workflow**
+- 🔭 I’m currently working on **Python**
+
+- 🌱 I’m currently learning Python and related technologies **Python,Statistics, ,Deep learning, Computer vision ,Natural language processing, Big Data ,Apache Spark, Apache Kafka ,Data Analytics ,PowerBI ,Tableau ,Databases, Data Science Workflow**
+
+- 🤝 I’m looking for help with **Machine learning,Deep Learning**
 
 - 📫 How to reach me **22f2000407@ds.study.iitm.ac.in**
+
+- ⚡ Fun fact **I am a also a graphic desginer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

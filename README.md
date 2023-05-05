@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning**Python,Big Data,Data Analytics**
+- 🌱 I’m currently learning **Python,Big Data,Data Analytics**
 
 - 🤝 I’m looking for help with **Machine learning,Deep Learning**
 

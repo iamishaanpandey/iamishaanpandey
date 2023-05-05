@@ -3,8 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamishaanpandey&label=Profile%20views&color=0e75b6&style=flat" alt="iamishaanpandey" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamishaanpandey" alt="iamishaanpandey" /></a> </p>
-
 - 🔭 I’m currently working on **Python**
 
 - 🌱 I’m currently learning Python and related technologies **Python,Statistics, ,Deep learning, Computer vision ,Natural language processing, Big Data ,Apache Spark, Apache Kafka ,Data Analytics ,PowerBI ,Tableau ,Databases, Data Science Workflow**

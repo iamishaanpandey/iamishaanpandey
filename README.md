@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning Python and related technologies **Python,Statistics, ,Deep learning, Computer vision ,Natural language processing, Big Data ,Apache Spark, Apache Kafka**
+- 🌱 I’m currently learning Python and related technologies **Python,Statistics,Deep learning,Computer vision,Natural language processing, Big Data,Apache Spark, Apache Kafka**
 
 - 🤝 I’m looking for help with **Machine learning,Deep Learning**
 

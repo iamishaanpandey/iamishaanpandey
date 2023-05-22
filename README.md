@@ -25,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamishaanpandey&show_icons=true&locale=en&layout=compact" alt="iamishaanpandey" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamishaanpandey&show_icons=true&locale=en" alt="iamishaanpandey" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamishaanpandey&" alt="iamishaanpandey" /></p>

@@ -27,7 +27,6 @@ I am a Computer Science Engineering student passionate about building end-to-end
 - 💼 **Professional Focus:** Gaining hands-on industry experience in Business Analytics, data visualization, and process automation. 
 - 🤝 **I’m looking to collaborate on:** Open-source AI projects, data science workflows, or innovative UI/UX designs.
 - 📫 **How to reach me:** [iamishaanpandey@gmail.com](mailto:iamishaanpandey@gmail.com)
-- ⚡ **Fun fact:** Beyond coding, I am an award-winning UI/UX designer and have a deep appreciation for sophisticated Urdu vocabulary!
 
 <br>
 
